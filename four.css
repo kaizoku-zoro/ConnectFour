@@ -1,0 +1,23 @@
+button{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid black;
+    background-color: gray;
+    /* padding: 10px; */
+}
+table{
+    margin: auto;
+}
+body{
+    padding: 20px;
+}
+.turnblue{
+    background-color: blue;
+}
+.turnred{
+    background-color: red;
+}
+p{
+    font-size: 30px;
+}
